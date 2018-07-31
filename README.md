@@ -2,7 +2,7 @@
 
 实现效果：
 
-
+![](https://upload-images.jianshu.io/upload_images/3884693-cfabb1cdea85bacf.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/700)
 
 主要存储的是来自仓库<https://github.com/wangxiaoleiAI/CSDN-CODE>提供的ubuntu主题美化资源，我新增了其他地方找到的几个Mac主题。
 
